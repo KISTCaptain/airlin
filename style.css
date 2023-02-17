@@ -1,0 +1,13 @@
+.background {
+  width: 100%;
+  height: 1800px;
+  background-image: url(https://search.pstatic.net/sunny/?src=http%3A%2F%2Fappdata.hungryapp.co.kr%2Fdata_file%2Fdata_img_m%2F201802%2FM15194921270220031.jpg&type=a340);
+  background-size: cover;
+  background-position: center;
+  padding: 1px;
+}
+.title {
+  color: white;
+  margin-top: 100px;
+  margin-left: 50px;
+}
